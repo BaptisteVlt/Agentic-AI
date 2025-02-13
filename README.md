@@ -10,5 +10,3 @@ Through Hugging Face's AI Agent Course, I gained hands-on experience with:
 💾 Share my agents on the Hugging Face Hub and explore agents created by the community.  
 🏆 Participate in challenges where I will evaluate my agents against other students.  
 🎓 Earn a certificate of completion by completing assignments.  
-
-
